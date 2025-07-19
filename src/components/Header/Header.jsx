@@ -10,8 +10,8 @@ export default function Header() {
       <div className={styles.headerText}>
         <h1 className={styles.polishFlagText}>Język polski</h1>
         <h2>
-          Przygotowania do egzaminu certyfikatowego na poziomie B1,<br />
-          rozmowy na Kartę Polaka, lekcje indywidualne
+          przygotowania do egzaminu certyfikatowego na poziomie B1,
+          rozmowy na Kartę Polaka lub Kartę Stałego Pobytu, lekcje indywidualne
         </h2>
       </div>
     </header>
