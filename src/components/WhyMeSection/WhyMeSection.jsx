@@ -7,19 +7,25 @@ export default function WhyMeSection() {
       <ul className={styles.list}>
         <li>
           <strong>Indywidualne podejście</strong><br />
-          każdy uczeń jest wyjątkowy, dlatego tworzę lekcje dostosowane do Twoich potrzeb, zainteresowań i stylu nauki. Skupimy się na tym, co dla Ciebie najważniejsze – mówieniu, gramatyce, słownictwie czy pisaniu.
+          każda osoba ucząca się jest wyjątkowa, dlatego lekcje dostosowuję do indywidualnych potrzeb, 
+          zainteresowań i stylu nauki. Skupiamy się na tym, co najważniejsze – mówieniu, gramatyce, 
+          słownictwie lub pisaniu.
         </li>
         <li>
           <strong>Praktyczne materiały</strong><br />
-          korzystam z nowoczesnych i ciekawych materiałów, takich jak filmy, podcasty, teksty kulturowe i interaktywne ćwiczenia. Dzięki temu język polski staje się nie tylko łatwiejszy, ale też przyjemniejszy do nauki.
+          korzystam z nowoczesnych i ciekawych materiałów, takich jak filmy, podcasty, teksty kulturowe i 
+          interaktywne ćwiczenia. Dzięki temu nauka języka polskiego staje się nie tylko łatwiejsza, ale 
+          też przyjemniejsza.
         </li>
         <li>
           <strong>Efektywna nauka</strong><br />
-          z moją pomocą szybko zauważysz postępy! Zadbam o to, abyś nie tylko rozumiał język, ale także czuł się pewnie w codziennych rozmowach i oficjalnych sytuacjach.
+          już po krótkim czasie można zauważyć postępy! Dbam o to, by każdy uczący się rozumiał język i czuł 
+          się pewnie zarówno w codziennych rozmowach, jak i oficjalnych sytuacjach.
         </li>
         <li>
           <strong>Poznanie kultury Polski</strong><br />
-          podczas lekcji opowiem Ci o polskich tradycjach, zwyczajach i ciekawostkach, które sprawią, że lepiej zrozumiesz Polskę i jej mieszkańców.
+          na lekcjach przybliżam polskie tradycje, zwyczaje i ciekawostki, które pomagają lepiej zrozumieć Polskę 
+          i jej mieszkańców.
         </li>
       </ul>
     </section>

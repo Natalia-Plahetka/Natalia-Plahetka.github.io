@@ -8,7 +8,7 @@ import starImg from '../../assets/star.png';
 export default function RequirementsSection() {
   return (
     <section className={styles.section}>
-      <h2 className={styles.heading}>czego potrzebujesz, żeby zacząć lekcje</h2>
+      <h2 className={styles.heading}>Czego potrzebujesz, żeby zacząć lekcje?</h2>
       <div className={styles.iconsRow}>
         <div className={styles.iconItem}>
           <div className={styles.iconCircle}>
