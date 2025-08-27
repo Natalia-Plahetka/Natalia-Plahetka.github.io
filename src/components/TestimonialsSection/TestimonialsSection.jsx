@@ -9,7 +9,7 @@ import review6 from '../../assets/testimonials/Zrzut ekranu 2025-07-04 180113.pn
 import review7 from '../../assets/testimonials/Zrzut ekranu 2025-07-04 180126.png';
 import review8 from '../../assets/testimonials/Zrzut ekranu 2025-07-04 180344.png';
 import review9 from '../../assets/testimonials/Zrzut ekranu 2025-07-04 180525.png';
-import review10 from '../../assets/testimonials/photo_2025-08-27_19-54-22.jpg';
+import review10 from '../../assets/testimonials/photo_2025-08-27_19-54-221.jpg';
 
 const reviews = [
   { img: review1, alt: 'Opinia klienta 1' },
