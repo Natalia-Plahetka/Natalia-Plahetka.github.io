@@ -9,6 +9,7 @@ import review6 from '../../assets/testimonials/Zrzut ekranu 2025-07-04 180113.pn
 import review7 from '../../assets/testimonials/Zrzut ekranu 2025-07-04 180126.png';
 import review8 from '../../assets/testimonials/Zrzut ekranu 2025-07-04 180344.png';
 import review9 from '../../assets/testimonials/Zrzut ekranu 2025-07-04 180525.png';
+import review10 from '../../assets/testimonials/photo_2025-08-27_19-54-22.jpg';
 
 const reviews = [
   { img: review1, alt: 'Opinia klienta 1' },
@@ -20,6 +21,7 @@ const reviews = [
   { img: review7, alt: 'Opinia klienta 7' },
   { img: review8, alt: 'Opinia klienta 8' },
   { img: review9, alt: 'Opinia klienta 9' },
+  { img: review10, alt: 'Opinia klienta 10' }
 ];
 
 import { useState } from 'react';
