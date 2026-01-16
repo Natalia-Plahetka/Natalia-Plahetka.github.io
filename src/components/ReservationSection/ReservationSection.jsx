@@ -15,12 +15,12 @@ export default function ReservationSection() {
         <div className={styles.buttonsRow}>
           <a href="https://t.me/natalia_plahetka" target="_blank" rel="noopener noreferrer">
             <button className={styles.button + ' ' + styles.left}>
-              Lekcja dla 2 osób<br /><span className={styles.price}>110 zł</span>
+              Lekcja dla 2 osób<br /><span className={styles.price}>120 zł</span>
             </button>
           </a>
           <a href="https://t.me/natalia_plahetka" target="_blank" rel="noopener noreferrer"> 
             <button className={styles.button + ' ' + styles.right}>
-              Lekcja indywidualna<br /><span className={styles.price}>85 zł</span>
+              Lekcja indywidualna<br /><span className={styles.price}>90 zł</span>
             </button>
           </a>
         </div>
